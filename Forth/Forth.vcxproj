@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="Forth.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ForthStack.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
